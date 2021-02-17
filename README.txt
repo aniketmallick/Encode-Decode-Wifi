@@ -1,4 +1,4 @@
-# enc-dec-wifi
+# Encode-Decode-Wifi
 
 Restricted Data Access Programs: Developed Linux-based programs to communicate confidential information over the network encrypted using 
 unique keys and advanced XOR algorithms. Technology Used: Python
